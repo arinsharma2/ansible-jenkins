@@ -1,2 +1,2 @@
 FROM hostit:latest
-COPY . /user/share/latest/html
+COPY . /user/share/hostit/html
