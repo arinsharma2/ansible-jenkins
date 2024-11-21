@@ -1,2 +1,2 @@
-FROM nginx
-COPY . /user/share/nginx/html
+FROM hostit:latest
+COPY . /user/share/latest/html
